@@ -1,0 +1,7 @@
+MEAN Assignments
+1.	Write a program to accept command line arguments for username and password with validation and return status with mocked logic. Create a custom module for this.
+
+2.	Create a Module called A and write  two methods x(), y(). Consume Module A in another custom module B and expose method c(). Test method from c() from Module B in app.js. 
+c() method should be instance method.  If possible, implement inter module communication between A and B with event handling and test it in app.js.
+
+3.	Write a program to control the event loop with Process.nextTick() and invoke custom method. Also code for unconditional exit if error occurs.
